@@ -1,0 +1,84 @@
+{
+  "runs": [
+    {
+      "id":1,
+      "title":"Wednesday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T08:30:00.49766",
+      "miles":2,
+      "location":"OUTDOOR"
+    },
+    {
+      "id":2,
+      "title":"Saturday Evening Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":3,
+      "title":"Sunday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":4,
+      "title":"Monday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":5,
+      "title":"Tuesday Evening Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":6,
+      "title":"Tuesday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":7,
+      "title":"Wednesday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":8,
+      "title":"Thursday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"INDOOR"
+    },
+    {
+      "id":9,
+      "title":"Friday Morning Run",
+      "startedOn":"2024-05-07T07:00:00.49766",
+      "completedOn":"2024-05-07T07:30:00.49766",
+      "miles":1,
+      "location":"OUTDOOR"
+    },
+    {
+      "id":10,
+      "title":"Saturday Afternoon Run",
+      "startedOn":"2024-05-07T04:00:00.49766",
+      "completedOn":"2024-05-07T04:30:00.49766",
+      "miles":1,
+      "location":"OUTDOOR"
+    }
+  ]
+}

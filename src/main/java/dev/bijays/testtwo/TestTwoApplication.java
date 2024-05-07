@@ -22,15 +22,15 @@ public class TestTwoApplication {
 		log.info("Application started successfully!");
 	}
 
-	@Bean
-	CommandLineRunner runner(RunRepository runRepository)
-	{
-		return args -> {
-			Run run = new Run(1, "First Run", LocalDateTime.now(),
-					LocalDateTime.now().plusHours(1), 3, Location.OUTDOOR);
-			runRepository.create(run);
-		};
-	}
+//	@Bean
+//	CommandLineRunner runner(RunRepository runRepository)
+//	{
+//		return args -> {
+//			Run run = new Run(1, "First Run", LocalDateTime.now(),
+//					LocalDateTime.now().plusHours(1), 3, Location.OUTDOOR);
+//			runRepository.create(run);
+//		};
+//	}
 
 
 }
