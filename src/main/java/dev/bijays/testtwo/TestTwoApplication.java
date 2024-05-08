@@ -1,16 +1,9 @@
 package dev.bijays.testtwo;
 
-import dev.bijays.testtwo.run.Location;
-import dev.bijays.testtwo.run.Run;
-import dev.bijays.testtwo.run.RunRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-
-import java.time.LocalDateTime;
 
 @SpringBootApplication
 public class TestTwoApplication {
@@ -23,7 +16,7 @@ public class TestTwoApplication {
 	}
 
 //	@Bean
-//	CommandLineRunner runner(RunRepository runRepository)
+//	CommandLineRunner runner(JdbcClientRunRepository runRepository)
 //	{
 //		return args -> {
 //			Run run = new Run(1, "First Run", LocalDateTime.now(),
